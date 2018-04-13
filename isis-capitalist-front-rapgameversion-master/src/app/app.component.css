@@ -1,0 +1,48 @@
+#ecran { 
+  margin:0;
+  padding:0;
+  background: url(images/bg.jpg) no-repeat center fixed;
+  -webkit-background-size: cover;
+  background-size: cover
+}
+
+.container-fluid {
+  height: 100%;
+  width : 100%;
+  margin: 0;
+  padding: 0
+}
+
+#worldnameintro {
+  font-size: 60px;
+  text-align: left;
+}
+
+#worldname {
+  font-size: 30px;
+  margin-left:40%;
+  color: #FF7F50;
+}
+
+#worldlogo {
+  border-radius: 5%;
+  width: 120px;
+  height: 120px;
+  margin-right: auto;
+  margin-left: auto;
+  
+}
+
+#managerlogo {
+  border-radius: 50%;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.produit
+
+.badge {
+  width: 20%;
+}
