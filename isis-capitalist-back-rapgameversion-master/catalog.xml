@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/cmarco01/Documents/NetBeansProjects/mavenproject1/isisRapGame/../../../../Desktop/worldSchema.xsd" uri="src/main/resources/jaxb/jaxb/worldSchema.xsd"/>
+    <system systemId="file:/C:/Users/cmarco01/Documents/NetBeansProjects/mavenproject1/isisRapGame/src/main/resources/jaxb/jaxb/worldSchema.xsd" uri="src/main/resources/jaxb/world/worldSchema.xsd"/>
+    <system systemId="file:/C:/Users/cmarco01/Documents/NetBeansProjects/mavenproject1/isisRapGame/src/main/resources/jaxb/world/worldSchema.xsd" uri="src/main/resources/jaxb/world/worldSchema.xsd"/>
+    <system systemId="file:/C:/Users/mynam_000/Documents/NetBeansProjects/mavenproject1/isisRapGame/src/main/resources/jaxb/world/worldSchema.xsd" uri="src/main/resources/jaxb/world/worldSchema.xsd"/>
+</catalog>
